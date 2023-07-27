@@ -1,2 +1,2 @@
 # azurefunction-demo
-Simple project created using the VSCode Azure extension
+Simple Azure Function project created using the VSCode Azure extension
